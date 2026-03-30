@@ -1,5 +1,4 @@
-# IoT-Sensor-Data-Analytics
-IoT Sensor Data Analytics Dashboard using Python and Power BI
+
 # IoT Sensor Data Analytics and Monitoring Dashboard
 
 ## Overview
